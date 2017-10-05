@@ -15,11 +15,11 @@ $y = 7;
 </head>
 <body>
 
-   <?php echo $x + $y?>
-   <?php echo $x - $y?>
-   <?php echo $x * $y?>
-   <?php echo $x / $y?>
-   <?php echo $x % $y?>
+   <?php echo $x + $y?> <br>
+   <?php echo $x - $y?> <br>
+   <?php echo $x * $y?> <br>
+   <?php echo $x / $y?> <br>
+   <?php echo $x % $y?> <br>
 
    
 
